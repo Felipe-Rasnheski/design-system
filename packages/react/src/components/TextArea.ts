@@ -2,11 +2,11 @@ import { ComponentProps } from 'react'
 import { styled } from '../styles'
 
 export const TextArea = styled('textarea', {
-  backgroundColor: '$gray900',
+  backgroundColor: '$gray600',
   padding: '$3 $4',
   borderRadius: '$sm',
   boxSizing: 'border-box',
-  border: '2px solid $gray900',
+  border: '2px solid $ignite500',
 
   fontFamily: '$default',
   fontSize: '$sm',
