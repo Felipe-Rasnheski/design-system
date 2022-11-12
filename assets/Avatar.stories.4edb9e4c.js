@@ -1,0 +1,2 @@
+import{A as t}from"./index.9963f280.js";import"./index.d80b7a3e.js";import"./iframe.d7ed10de.js";import"./index.9435d51a.js";import"./jsx-runtime.8c546e08.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/Felipe-Rasnheski.png",alt:"Felipe Souza"},argTypes:{src:{control:{type:"text"}},alt:{control:{type:"text"}}}},p={},l={args:{src:void 0,alt:void 0}},c=["Primary","WithFallback"];export{p as Primary,l as WithFallback,c as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.4edb9e4c.js.map
